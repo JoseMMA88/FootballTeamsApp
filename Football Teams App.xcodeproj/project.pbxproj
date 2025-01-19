@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		14DDF95A2D3D8F020042EFC0 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 14DDF9592D3D8EF90042EFC0 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		14DDF9172D3D7CA90042EFC0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		14DDF9022D3D7CA70042EFC0 /* Football Teams App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Football Teams App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		14DDF9162D3D7CA90042EFC0 /* Football Teams AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Football Teams AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		14DDF9202D3D7CA90042EFC0 /* Football Teams AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Football Teams AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		14DDF9592D3D8EF90042EFC0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -88,6 +93,7 @@
 		14DDF8F92D3D7CA70042EFC0 = {
 			isa = PBXGroup;
 			children = (
+				14DDF9592D3D8EF90042EFC0 /* README.md */,
 				14DDF9042D3D7CA70042EFC0 /* Football Teams App */,
 				14DDF9192D3D7CA90042EFC0 /* Football Teams AppTests */,
 				14DDF9232D3D7CA90042EFC0 /* Football Teams AppUITests */,
@@ -225,6 +231,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				14DDF95A2D3D8F020042EFC0 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
